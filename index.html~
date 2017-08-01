@@ -63,7 +63,7 @@
 <div id="mainphoto">
     <img src="xiaojing_web3_250.jpg" alt="xdong1 ( ait ) scu.edu" />
 </div>
-<p> </p><p> </p>
+<p> </p>
 <div id="contact">
 <div id="mainname">Xiaojing Dong</div> 
 <br>
@@ -75,10 +75,9 @@ Faculty Director, <a href="https://www.scu.edu/business/ms-business-analytics/">
 <a href="http://www.scu.edu/business/">Leavey School of Business</a><br/>
 <a href="http://www.scu.edu/">Santa Clara University</a><br/>
 <p>
-500 El Camino Real<br/>
-Santa Clara, CA 95053<br/>
+500 El Camino Real, Santa Clara, CA 95053<br/>
+Phone: 408-554-5721 <br/>
 <p>
-Phone: 408-554-5721<br/>
 <img src="email.png" alt="xdong1 ( ait ) scu.edu" /> <br/>
 <!-- <br>My CV <a href="papers/Dong_130901.pdf">PDF</a><br/> -->
 </div>
@@ -103,7 +102,7 @@ Phone: 408-554-5721<br/>
 <li>BS from <A href="http://www.tsinghua.edu.cn">Tsinghua University</A> Beijing, China.</li></br>
 <!--<i>1998, BS  </i>, Department of Civil Engineering-->
 <ul>
-    <li> Transportation demand forecasting, working with <A href="http://ce.civil.tsinghua.edu.cn/publish/ce/3118/2010/20101220135430783701404/20101220135430783701404_.html">Prof. Huapu Lu</A></li><p/></ul>
+    <li> Transportation demand forecasting, working with <A href="http://www.civil.tsinghua.edu.cn/en/ce/essay/532/2322.html">Prof. Huapu Lu</A></li><p/></ul>
 </li>
 </ul>
 
@@ -210,7 +209,7 @@ Simulated maximum likelihood</li>
 <hr/>
 
 <div id="footer">
-&copy; 2015, Xiaojing Dong <br/>
+&copy; 2017, Xiaojing Dong <br/>
 <!--#config timefmt="%B %Y" -->
 Last modified June 2017<!--#flastmod file="index.html" -->
 </div>
