@@ -1,0 +1,223 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Xiaojing Dong's web page</title>
+  <style type="text/css">
+@import 'site.css';
+#contact {
+  position: relative;
+  margin: 0px 0px 0px 250px;
+  padding: 20px 20px 20px 10px;
+}
+
+#mainphoto {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+
+#mainname {
+  font: 20px Arial,Verdana, sans-serif;
+  font-weight: bold;  
+}
+
+  </style>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21787080-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+
+<body>
+<!-- <div id="browser">please upgrade your browser</div>
+<div id="wrapper"> -->
+
+<!--    
+<div id="sidebar">
+<br/>
+<h3 class="menu_item"><a href="http://www.scu.edu/business/marketing/index.cfm">Marketing Department</a></h3><br/>
+<h3 class="menu_item"><a href="http://www.scu.edu/business/">Leavey School of Business</a></h3><br/>
+<h3 class="menu_item"><a href="http://www.scu.edu/">Santa Clara University</a></h3><br/>
+<br/>
+-->
+
+
+</div>
+
+
+
+<div id="content">
+
+<div>
+<div id="mainphoto">
+    <img src="xiaojing_web3_250.jpg" alt="xdong1 ( ait ) scu.edu" />
+</div>
+<p> </p><p> </p>
+<div id="contact">
+<div id="mainname">Xiaojing Dong</div> 
+<br>
+Associate Professor, Marketing and Business Analytics<br/>
+<br>
+Faculty Director, <a href="https://www.scu.edu/business/ms-business-analytics/">MS in Business Analytics</a><br/>
+<p>
+<a href="http://www.scu.edu/business/marketing/index.cfm">Marketing Department</a><br/>
+<a href="http://www.scu.edu/business/">Leavey School of Business</a><br/>
+<a href="http://www.scu.edu/">Santa Clara University</a><br/>
+<p>
+500 El Camino Real<br/>
+Santa Clara, CA 95053<br/>
+<p>
+Phone: 408-554-5721<br/>
+<img src="email.png" alt="xdong1 ( ait ) scu.edu" /> <br/>
+<!-- <br>My CV <a href="papers/Dong_130901.pdf">PDF</a><br/> -->
+</div>
+</div>
+<hr/>
+<div class="item">
+<a name="education"></a>
+<h3>Education: </h3>
+<ul>
+<li>PhD from <A href="http://www.northwestern.edu">Northwestern University</A> Evanston, IL</li></br>
+<!--<i> 2006 PhD </i> <p/>-->
+<ul>
+<li>Quantitative marketing modeling, Econometrics and Bayesian Statistics, working with <A href="http://www.chicagobooth.edu/faculty/bio.aspx?person_id=12824666112">Prof. Pradeep Chintagunta</A>, <A href="http://michiganross.umich.edu/faculty-research/faculty/puneet-manchanda">Prof. Puneet Manchanda</A> at the Graduate School of Business at University of Chicago. </li>
+<li>Advanced choice modeling techniques and Econometrics, working with <A href="http://www.civil.northwestern.edu/research/transportation_systems/koppelman.html"> Prof. Frank Koppelman </A> at the Department of Civil Engineering at Northwestern University </li><p/>
+</li>
+</ul>
+<li>MS from <A href="http://www.mit.edu/">Massachusetts Institute of Technology</A> Cambridge, MA</li></br>
+<!--<i>2000, MS in Transportation,</i> <p/>-->
+<ul>
+    <li> Discrete choice analysis and Transportation demand forecasting, working with <A href="http://cee.mit.edu/ben-akiva">Prof. Moshe Ben-Akiva</A></li><p/></ul>
+
+<li>BS from <A href="http://www.tsinghua.edu.cn">Tsinghua University</A> Beijing, China.</li></br>
+<!--<i>1998, BS  </i>, Department of Civil Engineering-->
+<ul>
+    <li> Transportation demand forecasting, working with <A href="http://ce.civil.tsinghua.edu.cn/publish/ce/3118/2010/20101220135430783701404/20101220135430783701404_.html">Prof. Huapu Lu</A></li><p/></ul>
+</li>
+</ul>
+
+<!--
+<a name="research"></a>
+<h3>Research projects:</h3>
+<ul>
+<li>Advanced choice modeling techniques, working with Prof. Frank Koppelman at the Department of Civil Engineering at Northwestern University <p/>
+This research examines the mass point Mixed Logit model's properties and its comparision with the commonly used continuous Mixed Logit models, in both model estimation and their goodness-of-fit measures.</li>
+
+<li>Quantitative marketing modeling in the pharmaceutical industry, working with <A href="http://gsb.uchicago.edu/fac/pradeep.chintagunta/">Prof. Pradeep Chintagunta</A>, <A href="http://gsb.uchicago.edu/fac/puneet.manchanda/">Prof. Puneet Manchanda</A> at the Graduate School of Business at University of Chicago. <p/>
+ 
+The pharmaceutical industry spends a lot of money and effort to develope a drug, and therefore is very interesting to understand how to profitably marketing their products. We focuses on analyzing physician's response to firm's detailing behavior at a brand level.
+</li>
+<li>
+Modeling of retailer's behavior, working with <A href="http://www1.kellogg.northwestern.edu/facdir/facpage.asp?sid=1181">Prof. Karsten Hansen</A> and <A href="http://www1.kellogg.northwestern.edu/facdir/facpage.asp?sid=478"> Prof. Robert Blattberg </A> at the Kellogg Business School of Northwestern University <P/>
+In this analysis, we try to find a profitable promotion schedule for a consumer package goods retailer, by examining consumer's responses at individual levels.
+</li>
+</ul>
+
+<!-- 
+<a name="awards"></a>
+<h3>Major awards:</h3>
+<ul>
+    <li>Winner of 2005 <A href="http://www.msi.org/research/awards/clayton-dissertation-proposal-competition/past-winners/">Alden G. Clayton Doctoral Dissertation Proposal Award</A> at the Marketing Science Institute (MSI).</li>
+<li>Winner of 2002 ASCE-IL Transportation sector Outstanding Student award. </li>
+</ul>
+
+-->
+<a name="publications"></a>
+<h3>Publications:</h3>
+<ul>
+	<li><A href="papers/SunDongMcIntyre_MS2016.pdf">Motivation of User-Generated Content: Social Connectedness Moderates the Effects of Monetary Rewards</A> Yacheng Sun, Xiaojing Dong and Shelby McIntyre, <i>Marketing Science</i>, 2017 36(3), pages 329-337.</li>
+<br /><strong>&nbsp; </strong>&nbsp;<strong>Press Release:&nbsp;</strong><a href="https://www.informs.org/About-INFORMS/News-Room/Press-Releases/Paying-online-community-members-to-write-product-reviews-backfires-badly" title="Press Release" target="_self">Paying Online Community Members to Write Product Reviews Backfires Badly Among the Socially Influential</a>
+<br /><strong>&nbsp;&nbsp;&nbsp;Media:</strong>&nbsp;<a href="https://www.consumeraffairs.com/news/why-paying-users-to-write-reviews-of-products-is-probably-a-bad-idea-050217.html">Why Paying Users to Write Reviews of Products Is Probably a Bad Idea</a> (<em>Consumer Affairs</em>)
+<br /><strong>&nbsp;&nbsp;&nbsp;Media:</strong>&nbsp;<a href="https://consumerist.com/2017/05/02/study-finds-paying-for-online-reviews-leads-to-fewer-reviews/">Study Finds Paying For Online Reviews Leads To Fewer Reviews</a> (<em>Consumerist</em>)
+<br /><strong>&nbsp;&nbsp;&nbsp;Media:</strong>&nbsp;<a href="http://www.analysisgroup.com/insights/publishing/what-motivates-user-generated-content--small-monetary-rewards-backfire-again/">What Motivates User-Generated Content? Small Monetary Rewards Backfire Again</a> (<em>Analysis Goroup</em>)</span></p>
+
+	
+<li><A href="papers/DongChintagunta_2015MS.pdf">Satisfaction Spillovers across Categories</A> Xiaojing Dong and Pradeep Chintagunta, <i>Marketing Science</i>, 2016 35(2), pages 275-283.</li>
+<li><A href="papers/2014_10_JMA_DongXie.pdf">An Empirical Study of Physicians' Sample-Dispensing Decisions: Evidence for the Roles of Experimentation and Subsidy</A> Xiaojing Dong and Ying Xie, <i>Journal of Marketing Analytics</i>, 2014 2(3), pages 135-161.</li>
+<li><A href="papers/2014_06_IJEC_ShiDong.pdf">The Effects of Bid-Pulsing on Keyword Performance in Search Engines</A> Savannah Wei Shi and Xiaojing Dong, <i> International Journal of Electronic Commerce</i>, 2014 19(2), pages 3-38.</li>
+<li>A Book Review on <A href="http://www.amazon.com/The-Second-Machine-Age-Technologies-ebook/dp/B00D97HPQI"> The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies</A>, Xiaojing Dong and Shelby McIntyre, <i>Quantitative Finance</i>, 2014 14(11), pages 1895-1896.</li>
+<li><A href="http://www.palgrave-journals.com/jma/journal/v2/n1/abs/jma20145a.html"> Comparison of Continuous and Discrete Representations of Unobserved Heterogeneity in Logit Models</A>, Xiaojing Dong and Frank S. Koppelman, <i> Journal of Marketing Analytics</i>, 2014 2(1), pages 43-58.</li>
+<li><A href="http://pubsonline.informs.org/doi/abs/10.1287/mksc.2014.0852"> The Effect of Survey Participation on Consumer Behavior: The Moderating Role of Marketing Communication</A>, Xiaojing Dong, Ramkumar Janakiraman and Ying Xie, <i> Marketing Science</i>, 2014 33(4), pages 567-585.</li>
+<li>"Forecasting Demand for Fashion Goods: A Hierarchical Bayesian Approach," Philip Yelland and Xiaojing Dong, <A href="http://www.springer.com/business+%26+management/business+information+systems/book/978-3-642-39868-1"> Intelligent Fashion Forecasting Systems: Models and Applications</A>, Editors: Tsan-Ming Choi, Chi-Leung Hui and Yong Yu, published by Springer, 2013. 
+<li>"Understanding Sample Usage and Sampling as a Promotion Tool - State of Industry Practice and Current Research," Xiaojing Dong, Ying Xie and Michael Li, <A href="http://www.springer.com/economics/book/978-1-4614-7800-3"> Innovation and Marketing in the Pharmaceutical Industry</A>, Editors: Min Ding, Jehoshua Eliashberg and Stefan Stremersch, published by Springer, 2013. 
+<li><A href="papers/HB_092012_submitted.pdf">Bayesian Modeling in Finance</A>, Xiaojing
+Dong and Carrie H. Pan, <i>Journal of Investment Management</i>, 2013 11(1), pages 82-97.</li>
+<li><A href="http://ssrn.com/abstract=1339142">A New Multivariate Count Data
+   Model to Study Multi-Category Physician Prescription Behavior</A>, Xiaojing
+Dong, Pradeep K. Chintagunta and Puneet Manchanda, <i>Quantitative Marketing and Economics</i>, 2011 9(3), pages 301-337.</li>
+<li><A href="http://ssrn.com/abstract=937647"> Quantifying the Benefits of Individual Level Targeting in the Presence of Firm Strategic Behavior</A>, Xiaojing Dong, Puneet Manchanda and Pradeep K. Chintagunta, <i>Journal of Marketing Research</i>, 2009 46(April), pages 207-221.</li>
+<li><A href="http://www.amazon.com/Hierarchical-Bayesian-Individual-Behavior-Preference/dp/3836423537/ref=sr_1_1?ie=UTF8&s=books&qid=1199388677&sr=8-1"> Book on an Application of Hierarchical Bayesian</A>, Xiaojing Dong, Publisher: VDM Verlag Dr. Mueller e.K., 2007</li>
+<li> "Hazard/Survival Models in Marketing", Pradeep K. Chintagunta and Xiaojing Dong, <A href="http://www.sagepub.com/refbooksProdDesc.nav?prodId=Book227213">The Handbook of Market Research, Uses, Misuses, and Future Advances</A>, Editors: Rajiv Gover and Marco Vriens, Sage Publications, 2006. CHOICE Award for Outstanding Academic Title 2007</li>
+<li><A href="papers/Dong_etal06_ABA.pdf">Moving From Trip-Based to Activity-Based Measures of Accessibility</A>, Xiaojing Dong, Moshe Ben-Akiva, John Bowman and Joan Walker, <i>Transportation Research A</i>, 2006 Vol. 2, pages 163-180</li>
+<li><A href="http://ideas.repec.org/a/kap/mktlet/v16y2005i3p293-308.html"> Understanding Firm, Physician and Consumer Choice Behavior in the Pharmaceutical Industry</A>, Puneet Manchanda, Dick Wittink, Andrew Ching, Paris Cleanthous, Min Ding, Xiaojing Dong, Peter Leeflang, Sanjog Misra, Natalie Mizik, Sridhar Narayanan, Thomas Steenburgh, Jaap Wieringa, Marta Wosinska and Ying Xie, <i>Marketing Letters</i>, 2005 16(3), pages 293-308.</li>
+</ul>
+
+<a name="papers"></a>
+<!-- <h3>Working papers:</h3>
+<ul>
+<li><A href="papers/hetrglogit_web.pdf">Comparison of Continuous and Discrete Representations of Heterogeneity in Logit Models</A>, with Frank Koppelman, Department of Civil Engineering, Northwestern University</li>
+</ul>
+-->
+
+<a name="teaching"></a>
+<h3>Teaching:</h3>
+<ul>
+<li> Principles of Marketing: a survey course for undergraduates </li>
+<li> Marketing Analytics: a new course developed in response to the call for Analytics Talent in Business </li>
+</ul>
+
+<!--
+<a name="modeling"></a>
+<h3>Interested modeling techiniques:</h3>
+<ul>
+<li>Bayesian statistics and Hierarchical Bayesian estimation <br/>
+Simulated maximum likelihood</li>
+<li>Mixed logit model, GEV model, Nested logit model, Multinomial logit model <br/>
+    Hazard models, Correlated count models<br/>
+	Probit models, etc.</li>
+</ul>
+-->
+
+<!--
+<a name="ama"></a>
+<h3>AMA slides:</h3>
+<ul>
+<A href="papers/AMA_XiaojingDong.pdf">Download</A>
+-->
+<!--
+<h3>Other links:</h3>
+<ul>
+<li>My husband: <A href="http://trans.civil.northwestern.edu/~jay/">Jiang Zhang</A></li>
+
+<li>My photo album: <A href="http://photos.yahoo.com/dong_xj">Xiaojing's pictures</A></li>
+
+</ul>
+
+</div>
+-->
+
+<hr/>
+
+<div id="footer">
+&copy; 2015, Xiaojing Dong <br/>
+<!--#config timefmt="%B %Y" -->
+Last modified April 2015<!--#flastmod file="index.html" -->
+</div>
+
+</div>
+</div>
+
+</body>
+
+</html>
